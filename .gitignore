@@ -1,0 +1,8 @@
+# CCLS cache.
+.ccls-cache
+# Compiled object files.
+*.o
+# dmenu executable.
+dmenu
+# test executable.
+stest
